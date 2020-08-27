@@ -1,0 +1,1 @@
+resources/views/admin/invoice/index.blade.php
